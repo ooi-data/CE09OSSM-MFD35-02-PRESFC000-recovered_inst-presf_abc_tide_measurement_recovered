@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSSM-MFD35-02-PRESFC000-recovered_inst-presf_abc_tide_measurement_recovered
 data_stream: CE09OSSM-MFD35-02-PRESFC000-recovered_inst-presf_abc_tide_measurement_recovered
 end_date: '2021-09-14T14:30:00.000Z'
-last_updated: '2022-01-02T10:30:32.927861'
+last_updated: '2022-01-21T23:23:19.433996Z'
 start_date: '2015-04-09T18:30:00.000Z'
-status: success
+status: pending
